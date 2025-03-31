@@ -26,7 +26,7 @@ This software provides control systems for rocket launches as part of the Czech 
 
 1. Clone this repository:
 ```plaintext
-git clone https://github.com/your-username/crc-rocket-software.git
+git clone https://github.com/redfox-studios/crc-rocket-software.git
 cd crc-rocket-software
 ```
 
@@ -59,7 +59,7 @@ make
 2. Release the button after connecting.
 3. Copy the generated `.uf2` file to the Pico drive:
 ```plaintext
-cp rocket_control.uf2 /media/your-username/RPI-RP2/
+cp rocket_control.uf2 /media/redfox-studios/RPI-RP2/
 ```
 
 ### Configuration
